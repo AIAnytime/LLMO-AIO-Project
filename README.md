@@ -1,4 +1,4 @@
-```markdown
+
 # LLMO Project
 
 LLMO Project is an open-source Streamlit app that generates two Markdown files—`llms.txt` (a brief overview) and `llms-full.txt` (a detailed version)—for your website based on the information you provide.
