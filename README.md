@@ -17,7 +17,7 @@ Check out the live app here: [https://llmo-aio.streamlit.app/](https://llmo-aio.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/llmo-project.git
+   git clone https://github.com/AIAnytime/LLMO-AIO-Project.git
    ```
 
 2. **Install Dependencies:**
